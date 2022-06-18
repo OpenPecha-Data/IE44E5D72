@@ -1,0 +1,37 @@
+id: IE44E5D72
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:31:14.380214'
+last_modified: '2022-06-18T20:31:14.380228'
+parser: null
+source_metadata:
+  title: rJe btsun Kun dga grol mchogs (1507–1565/1566) Outer, Inner and Secret Biography
+  author: rje btsun kun dga grol mchog
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-06-16); revision in process, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Volker Caumanns (vc)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:Volker Caumanns (vc)
+  text_witnesses: https://sakyaresearch.org/sources/539
+  bases:
+    1dcd:
+      title: rJe btsun Kun dga grol mchogs (1507–1565/1566) Outer, Inner and Secret
+        Biography
+      order: 1
+      base_file: 1dcd.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
